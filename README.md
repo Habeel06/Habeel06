@@ -1,4 +1,4 @@
-<h2 align="center"><img src="12.png" width="70px">Welcome to My Profile </h2>
+<h2 align="center"><img src="1.jpg" width="70px">Welcome to My Profile </h2>
 <h2 align="center">My Github Statistics</h2>
 <div align="center">
 <img alt ="stats" src="https://github-readme-stats.vercel.app/api?username=Habeel06&theme=react">
