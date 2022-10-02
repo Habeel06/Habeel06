@@ -29,7 +29,7 @@
   </a>
 </p>
 
-## 📱 Socials
+<!-- ## 📱 Socials
 <p align="center">
 	<a href="https://www.quora.com/profile/Mir-Habeel-Ahmad-1">
 		<img src="https://img.shields.io/badge/Quora-informational?style=social&logo=quora"/>
@@ -40,7 +40,7 @@
 	<a href="https://github.com/Habeel06">
 		<img src="https://img.shields.io/badge/Github-informational?style=social&logo=github"/>
 	</a>
-</p>
+</p> -->
 
 
 
