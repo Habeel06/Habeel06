@@ -2,10 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Habeel06&label=Profile%20views&color=0e75b6&style=flat" alt="Habeel06" /> </p>
 
 # 📊 GitHub Stats:
+<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Habeel06&theme=vision-friendly-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-  
+ </p>
   🔧 Technologies & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=61D9FA&labelColor=20232A"/>
@@ -19,12 +20,6 @@
   <img src="https://img.shields.io/badge/Cloud-Replit-informational?style=flat&logo=replit&logoColor=white&color=61D9FA&labelColor=20232A"/>
 </p>
 
-## &#x269B; Language Stats
-<p align="center">
-  <a align="center" href="https://github.com/Habeel06">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habeel06&theme=react&hide_border=true" />
-  </a>
-</p>
 
 <!-- ## 📱 Socials
 <p align="center">
