@@ -1,15 +1,10 @@
 <h2 align="center"><img src="6os.gif" width="50px">Welcome to My Profile <img src="bf6.gif" width="50px"></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Habeel06&label=Profile%20views&color=0e75b6&style=flat" alt="Habeel06" /> </p>
 
-<h2 align="center">My Github Statistics</h2>
-<div align="center">
-<img alt ="stats" src="https://github-readme-stats.vercel.app/api?username=Habeel06&theme=react">
-</div>
-<h2 align="center"> Snek!</h2>
-<div align="center">
-<img alt="snake eating my contribution" src="https://github.com/Habeel06/Habeel06/blob/output/github-contribution-grid-snake.svg">
-</div
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Habeel06&theme=vision-friendly-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
   
   🔧 Technologies & Tools
 <p align="center">
