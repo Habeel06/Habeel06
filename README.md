@@ -2,24 +2,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Habeel06&label=Profile%20views&color=0e75b6&style=flat" alt="Habeel06" /> </p>
 
 # 📊 GitHub Stats:
-
 ![](https://github-readme-stats.vercel.app/api?username=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Habeel06&theme=vision-friendly-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-  🔧 Technologies & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=61D9FA&labelColor=20232A"/>
-</p>  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tools-Chrome-informational?style=flat&logo=chrome&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Cloud-Replit-informational?style=flat&logo=replit&logoColor=white&color=61D9FA&labelColor=20232A"/>
-</p>
-
+ # 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PYTHON](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E) ![VS CODE](https://img.shields.io/badge/VS_CODE-3670A0?style=for-the-badge&logo=VS_CODE&logoColor=ffdd54) 
+ ![REPLIT](https://img.shields.io/badge/replit-%23E34F26.svg?style=for-the-badge&logo=replit&logoColor=white) ![SHELL](https://img.shields.io/badge/powershell-%23323330.svg?style=for-the-badge&logo=powershell&logoColor=%23F7DF1E)    
+ ![LINUX](https://img.shields.io/badge/linux-%23026AA7.svg?style=for-the-badge&logo=linux&logoColor=white) ![WINDOWS](https://img.shields.io/badge/-windows-00979D?style=for-the-badge&logo=windows&logoColor=white) ![TRYHACKME](https://img.shields.io/badge/-tryhackme-C51A4A?style=for-the-badge&logo=tryhackme) 
+ <!--![WHITE HAT](https://img.shields.io/badge/whitehat-6DA55F?style=for-the-badge&logo=whitehat&logoColor=white)
 
 <!-- ## 📱 Socials
 <p align="center">
