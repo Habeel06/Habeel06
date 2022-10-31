@@ -10,9 +10,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Habeel06&theme=vision-friendly-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
  # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PYTHON](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E) ![VS CODE](https://img.shields.io/badge/VS_CODE-3670A0?style=for-the-badge&logo=VS_CODE&logoColor=ffdd54) 
- ![REPLIT](https://img.shields.io/badge/replit-%23E34F26.svg?style=for-the-badge&logo=replit&logoColor=white) ![SHELL](https://img.shields.io/badge/powershell-%23323330.svg?style=for-the-badge&logo=powershell&logoColor=%23F7DF1E)    
- ![LINUX](https://img.shields.io/badge/linux-%23026AA7.svg?style=for-the-badge&logo=linux&logoColor=white) ![WINDOWS](https://img.shields.io/badge/-windows-00979D?style=for-the-badge&logo=windows&logoColor=white) ![TRYHACKME](https://img.shields.io/badge/-tryhackme-C51A4A?style=for-the-badge&logo=tryhackme) 
+ ![VS CODE](https://img.shields.io/badge/VS_CODE-3670A0?style=for-the-badge&logo=VS_CODE&logoColor=ffdd54) ![REPLIT](https://img.shields.io/badge/replit-%23E34F26.svg?style=for-the-badge&logo=replit&logoColor=white)![SHELL](https://img.shields.io/badge/powershell-%23323330.svg?style=for-the-badge&logo=powershell&logoColor=%23F7DF1E)![LINUX](https://img.shields.io/badge/linux-%23026AA7.svg?style=for-the-badge&logo=linux&logoColor=white) ![WINDOWS](https://img.shields.io/badge/-windows-00979D?style=for-the-badge&logo=windows&logoColor=white) ![TRYHACKME](https://img.shields.io/badge/-tryhackme-C51A4A?style=for-the-badge&logo=tryhackme) 
+ # 📝 LANGUAGES:
+ <div align="center">
+
+  <img src="https://skillicons.dev/icons?i=css,html,python">
+</div>
+
  <!--![WHITE HAT](https://img.shields.io/badge/whitehat-6DA55F?style=for-the-badge&logo=whitehat&logoColor=white)
 
 <!-- ## 📱 Socials
