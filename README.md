@@ -1,4 +1,6 @@
 <h2 align="center"><img src="6os.gif" width="50px">Welcome to My Profile <img src="bf6.gif" width="50px"></h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Habeel06&label=Profile%20views&color=0e75b6&style=flat" alt="Habeel06" /> </p>
+
 <h2 align="center">My Github Statistics</h2>
 <div align="center">
 <img alt ="stats" src="https://github-readme-stats.vercel.app/api?username=Habeel06&theme=react">
