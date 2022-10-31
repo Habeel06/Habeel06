@@ -1,4 +1,4 @@
-<h1 align="center"><img src="6os.gif" width="50px">Welcome to my Readme. <img src="bf6.gif" width="50px"></h1>
+![MasterHead](1.jpg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Habeel06&label=Profile%20views&color=0e75b6&style=flat" alt="Habeel06" /> </p>
 
 <h1 align = "center">
