@@ -20,17 +20,22 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Habeel06&theme=tokyonight&hide_border=true">
   <br>
   <img src='https://github-readme-stats.vercel.app/api/top-langs?username=Habeel06&hide=css&layout=compact&theme=tokyonight&hide_border=true'>
-</div>
--->
+</div>-->
+
  <h1 align="center"># 📝 LANGUAGES:
  <div align="center">
 
   <img src="https://skillicons.dev/icons?i=css,html,python">
 </div>
 
- <!--![WHITE HAT](https://img.shields.io/badge/whitehat-6DA55F?style=for-the-badge&logo=whitehat&logoColor=white)
+<h1 align="center"># 📱 Socials:
+<p align="center">
+<a href="https://twitter.com/habeel_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raxtak" height="30" width="40" /></a>
+<a href="https://instagram.com/ahmad_amog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raqeemmm" height="30" width="40" /></a>
+<a href="https://www.quora.com/profile/Mir-Habeel-Ahmad-1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/quora.svg" alt="raqeemmm" height="30" width="40" /></a>	
+</p>
 
-<!-- ## 📱 Socials
+<!--## 📱 Socials
 <p align="center">
 	<a href="https://www.quora.com/profile/Mir-Habeel-Ahmad-1">
 		<img src="https://img.shields.io/badge/Quora-informational?style=social&logo=quora"/>
