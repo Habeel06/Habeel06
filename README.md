@@ -8,7 +8,7 @@
 
 <h1 align="center"> # 📊 GitHub Stats: 
 
-![](https://github-readme-stats.vercel.app/api?username=Habeel06&theme=vision-friendly-dark&hide_border=true&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Habeel06&theme=vision-friendly-dark&hide_border=true&count_private=false&include_all_commits=true)![](https://github-readme-streak-stats.herokuapp.com/?user=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 <h1 align="center"> 
 # 💻 Tech Stack:
 	
