@@ -30,9 +30,9 @@
 
 <h1 align="center"># 📱 Socials:
 <p align="center">
-<a href="https://twitter.com/habeel_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raxtak" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmad_amog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raqeemmm" height="30" width="40" /></a>
-<a href="https://www.quora.com/profile/Mir-Habeel-Ahmad-1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/quora.svg" alt="raqeemmm" height="30" width="40" /></a>	
+<a href="https://twitter.com/habeel_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="habeel_06" height="30" width="40" /></a>
+<a href="https://instagram.com/ahmad_amog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmad_amog" height="30" width="40" /></a>
+<a href="https://www.quora.com/profile/Mir-Habeel-Ahmad-1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/quora.svg" alt="Mir-Habeel-Ahmad-1" height="30" width="40" /></a>	
 </p>
 
 <!--## 📱 Socials
