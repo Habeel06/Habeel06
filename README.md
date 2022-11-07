@@ -8,7 +8,7 @@
 
 <h1 align="center"> # 📊 GitHub Stats: 
 
-![](https://github-readme-stats.vercel.app/api?username=Habeel06&theme=vision-friendly-dark&hide_border=true&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Habeel06&theme=vision-friendly-dark&hide_border=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <h1 align="center"> 
 # 💻 Tech Stack:
 	
@@ -35,7 +35,7 @@
 <a href="https://www.quora.com/profile/Mir-Habeel-Ahmad-1" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174865.png" alt="Mir-Habeel-Ahmad-1" height="35" width="40" /></a>	
 </p>
 
-<!--## 📱 Socials
+<!-- ## 📱 Socials
 <p align="center">
 	<a href="https://www.quora.com/profile/Mir-Habeel-Ahmad-1">
 		<img src="https://img.shields.io/badge/Quora-informational?style=social&logo=quora"/>
