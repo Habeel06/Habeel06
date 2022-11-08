@@ -13,8 +13,10 @@
 </h1>
 
 <h1 align="center"> # 📊 GitHub Stats: 
-
-![](https://github-readme-stats.vercel.app/api?username=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true)![](https://github-readme-streak-stats.herokuapp.com/?user=Habeel06&theme=vision-friendly-dark&hide_border=true)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=Habeel06&theme=vision-friendly-dark&hide_border=true&layout=compact)
+	
+<!--![](https://github-readme-stats.vercel.app/api?username=Habeel06&theme=vision-friendly-dark&hide_border=true)![](https://github-readme-streak-stats.herokuapp.com/?user=Habeel06&theme=vision-friendly-dark&hide_border=true)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=Habeel06&theme=vision-friendly-dark&hide_border=true&layout=compact) -->
+<img src="https://github-readme-stats.vercel.app/api?username=Habeel06&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Habeel06&theme=vision-friendly-dark&include_private=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habeel06&layout=compact&theme=vision-friendly-dark&hide_border=true" />
 <h1 align="center">
 # 💻 Tech Stack:
 <div align="center">
