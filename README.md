@@ -15,14 +15,14 @@
 <h1 align="center"> # 📊 GitHub Stats: 
 
 ![](https://github-readme-stats.vercel.app/api?username=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=Habeel06&theme=vision-friendly-dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true)
-<h1 align="center"> 
+<h1 align="center">
 # 💻 Tech Stack:
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=vscode,powershell,linux,blender"> <img src="replit.jpg">  
+![REPLIT](https://img.shields.io/badge/replit-%23E34F26.svg?style=for-the-badge&logo=replit&logoColor=white) <br>
+ ![VS CODE](https://img.shields.io/badge/VS_CODE-3670A0?style=for-the-badge&logo=VS_CODE&logoColor=ffdd54) ![SHELL](https://img.shields.io/badge/powershell-%23323330.svg?style=for-the-badge&logo=powershell&logoColor=%23F7DF1E)<br>  <img src="https://img.shields.io/badge/-blender-C51A4A?style=for-the-badge&logo=blender"> ![LINUX](https://img.shields.io/badge/linux-000000.svg?style=for-the-badge&logo=linux&logoColor=) ![WINDOWS](https://img.shields.io/badge/-windows-00979D?style=for-the-badge&logo=windows&logoColor=white)<br>  ![TRYHACKME](https://img.shields.io/badge/-tryhackme-blueviolet?style=for-the-badge&logo=tryhackme) ![VERCEL](https://img.shields.io/badge/-vercel-yellow?style=for-the-badge&logo=vercel) ![TRYHACKME](https://img.shields.io/badge/-tryhackme-ff69b4?style=for-the-badge&logo=tryhackme)   <img src="https://img.shields.io/badge/-blender-C51A4A?style=for-the-badge&logo=blender"> <br>
 </div>
 
-![VS CODE](https://img.shields.io/badge/VS_CODE-3670A0?style=for-the-badge&logo=VS_CODE&logoColor=ffdd54) ![REPLIT](https://img.shields.io/badge/replit-%23E34F26.svg?style=for-the-badge&logo=replit&logoColor=white) ![SHELL](https://img.shields.io/badge/powershell-%23323330.svg?style=for-the-badge&logo=powershell&logoColor=%23F7DF1E) ![LINUX](https://img.shields.io/badge/linux-%23026AA7.svg?style=for-the-badge&logo=linux&logoColor=white) ![WINDOWS](https://img.shields.io/badge/-windows-00979D?style=for-the-badge&logo=windows&logoColor=white) ![TRYHACKME](https://img.shields.io/badge/-tryhackme-C51A4A?style=for-the-badge&logo=tryhackme) 
 <!--<h2 align="center">My Github Statistics</h2>
 <div align="center">
 <img alt ="stats" src="https://github-readme-stats.vercel.app/api?username=Habeel06&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true">
