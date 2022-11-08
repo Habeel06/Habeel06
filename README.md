@@ -19,7 +19,7 @@
 # 💻 Tech Stack:
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=vscode,powershell,linux,blender"> <img src="https://storage.googleapis.com/replit/images/1639624946953_10f01364bd4141e691a099115f6fd88b.png">  
+  <img src="https://skillicons.dev/icons?i=vscode,powershell,linux,blender"> <img src="replit.jpg">  
 </div>
 
 ![VS CODE](https://img.shields.io/badge/VS_CODE-3670A0?style=for-the-badge&logo=VS_CODE&logoColor=ffdd54) ![REPLIT](https://img.shields.io/badge/replit-%23E34F26.svg?style=for-the-badge&logo=replit&logoColor=white) ![SHELL](https://img.shields.io/badge/powershell-%23323330.svg?style=for-the-badge&logo=powershell&logoColor=%23F7DF1E) ![LINUX](https://img.shields.io/badge/linux-%23026AA7.svg?style=for-the-badge&logo=linux&logoColor=white) ![WINDOWS](https://img.shields.io/badge/-windows-00979D?style=for-the-badge&logo=windows&logoColor=white) ![TRYHACKME](https://img.shields.io/badge/-tryhackme-C51A4A?style=for-the-badge&logo=tryhackme) 
