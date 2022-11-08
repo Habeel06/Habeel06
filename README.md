@@ -19,8 +19,8 @@
 # 💻 Tech Stack:
 <div align="center">
 
-![REPLIT](https://img.shields.io/badge/replit-%23E34F26.svg?style=for-the-badge&logo=replit&logoColor=white) <br>
- ![VS CODE](https://img.shields.io/badge/VS_CODE-3670A0?style=for-the-badge&logo=VS_CODE&logoColor=ffdd54) ![SHELL](https://img.shields.io/badge/powershell-%23323330.svg?style=for-the-badge&logo=powershell&logoColor=%23F7DF1E)<br>  <img src="https://img.shields.io/badge/-blender-C51A4A?style=for-the-badge&logo=blender"> ![LINUX](https://img.shields.io/badge/linux-000000.svg?style=for-the-badge&logo=linux&logoColor=) ![WINDOWS](https://img.shields.io/badge/-windows-00979D?style=for-the-badge&logo=windows&logoColor=white)<br>  ![TRYHACKME](https://img.shields.io/badge/-tryhackme-blueviolet?style=for-the-badge&logo=tryhackme) ![VERCEL](https://img.shields.io/badge/-vercel-yellow?style=for-the-badge&logo=vercel) ![TRYHACKME](https://img.shields.io/badge/-tryhackme-ff69b4?style=for-the-badge&logo=tryhackme)   <img src="https://img.shields.io/badge/-blender-C51A4A?style=for-the-badge&logo=blender"> <br>
+![REPLIT](https://img.shields.io/badge/replit-000000.svg?style=for-the-badge&logo=replit&logoColor=white) <br>
+ ![VS CODE](https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=VS_CODE&logoColor=ffdd54) ![SHELL](https://img.shields.io/badge/powershell-000000.svg?style=for-the-badge&logo=powershell&logoColor=%23F7DF1E)<br>  <img src="https://img.shields.io/badge/-blender-000000?style=for-the-badge&logo=blender"> ![LINUX](https://img.shields.io/badge/linux-000000.svg?style=for-the-badge&logo=linux&logoColor=) ![WINDOWS](https://img.shields.io/badge/-windows-000000?style=for-the-badge&logo=windows&logoColor=white)<br>  ![TRYHACKME](https://img.shields.io/badge/-tryhackme-000000?style=for-the-badge&logo=tryhackme) ![VERCEL](https://img.shields.io/badge/-vercel-000000?style=for-the-badge&logo=vercel) ![VMWARE](https://img.shields.io/badge/-VMWARE-000000?style=for-the-badge&logo=vmware) ![ORACLE](https://img.shields.io/badge/-ORACLEVM-000000?style=for-the-badge&logo=oracle) <br>
 </div>
 
 <!--<h2 align="center">My Github Statistics</h2>
