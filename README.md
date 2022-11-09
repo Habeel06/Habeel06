@@ -54,9 +54,9 @@
 <p align="center"> # 📌 Pinned Repositories:
  
 	
-<a href="https://github.com/Habeel06/voice-recognizer-save-audio-text-as-a-file"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Habeel06-india&repo=engine-api&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
-  <a href="https://github.com/Habeel06/cmatrix-rip-off-using-python"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Habeel06&repo=rezonance&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
-  <a href="https://github.com/Habeel06/assistant-using-python"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Habeel06&repo=alpr-india&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+<a href="https://github.com/Habeel06/voice-recognizer-save-audio-text-as-a-file"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Habeel06-india&repo=voice-recognizer-save-audio-text-as-a-file&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+<a href="https://github.com/Habeel06/cmatrix-rip-off-using-python"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Habeel06&repo=cmatrix-rip-off-using-python&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+ <a href="https://github.com/Habeel06/assistant-using-python"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Habeel06&repo=assistant-using-python&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
  
 </p>
 <!-- ## 📱 Socials
