@@ -51,6 +51,14 @@
 <a href="https://www.quora.com/profile/Mir-Habeel-Ahmad-1" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174865.png" alt="Mir-Habeel-Ahmad-1" height="35" width="40" /></a>	
 </p>
 
+<p align="center"> # 📌 Pinned Repositories:
+ 
+	
+<a href="https://github.com/Habeel06/voice-recognizer-save-audio-text-as-a-file"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Habeel06-india&repo=engine-api&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/Habeel06/cmatrix-rip-off-using-python"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Habeel06&repo=rezonance&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/Habeel06/assistant-using-python"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Habeel06&repo=alpr-india&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+ 
+</p>
 <!-- ## 📱 Socials
 <p align="center">
 	<a href="https://www.quora.com/profile/Mir-Habeel-Ahmad-1">
