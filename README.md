@@ -19,7 +19,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habeel06&layout=compact&theme=vision-friendly-dark&hide_border=true" />
 <p align="center">
     
-  <img align='center' src="https://activity-graph.herokuapp.com/graph?username=Habeel06&theme=synthwave&bg_color=000000&hide_border=true" width="100%"/>
+  <img align='center' src="https://activity-graph.herokuapp.com/graph?username=Habeel06&theme=chartreuse-dark&bg_color=000000&hide_border=true" width="100%"/>
 </p>
 <h1 align="center">
 # 💻 Tech Stack:
