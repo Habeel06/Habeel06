@@ -50,11 +50,11 @@
 <a href="https://instagram.com/mir_habeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mir_habeel" height="30" width="40" /></a>
 <a href="https://www.quora.com/profile/Mir-Habeel-Ahmad-1" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174865.png" alt="Mir-Habeel-Ahmad-1" height="35" width="40" /></a>	
 </p>
-
-<p align="center"> # 📌 Pinned Repositories:
- 
 	
-<a href="https://github.com/Habeel06/voice-recognizer-save-audio-text-as-a-file"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Habeel06-india&repo=voice-recognizer-save-audio-text-as-a-file&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+<h1 align="center"># 📌 Pinned Repositories:
+<p align="center"> 
+<a href="https://github.com/Habeel06/audio-to-text-converter-python"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Habeel06&repo=audio-to-text-converter-python&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>	
+
 <a href="https://github.com/Habeel06/cmatrix-rip-off-using-python"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Habeel06&repo=cmatrix-rip-off-using-python&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
  <a href="https://github.com/Habeel06/assistant-using-python"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Habeel06&repo=assistant-using-python&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
  
