@@ -21,6 +21,14 @@
     
   <img align='center' src="https://activity-graph.herokuapp.com/graph?username=Habeel06&theme=chartreuse-dark&bg_color=000000&hide_border=true" width="100%"/>
 </p>
+	
+<h1 align="center"># 📝 LANGUAGES:
+	
+ <div align="center">
+
+  <img src="https://skillicons.dev/icons?i=css,html,python"> 
+</div>
+	
 <h1 align="center">
 # 💻 Tech Stack:
 <div align="center">
@@ -38,11 +46,7 @@
   <img src='https://github-readme-stats.vercel.app/api/top-langs?username=Habeel06&hide=css&layout=compact&theme=tokyonight&hide_border=true'>
 </div>-->
 
- <h1 align="center"># 📝 LANGUAGES:
- <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=css,html,python"> 
-</div>
 
 <h1 align="center"># 📱 Socials:
 <p align="center">
