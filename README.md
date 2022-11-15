@@ -59,7 +59,7 @@
 <p align="center"> 
 <a href="https://github.com/Habeel06/msg-encrypter-decrypter-python"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Habeel06&repo=msg-encrypter-decrypter-python&theme=vision-friendly-dark&hide_border=true&show_icons=true" alt="github-readme-stats"></a>		
 <a href="https://github.com/Habeel06/audio-to-text-converter-python"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Habeel06&repo=audio-to-text-converter-python&theme=vision-friendly-dark&hide_border=true&show_icons=true" alt="github-readme-stats"></a>	
-
+<a href="[https://github.com/Habeel06/](https://github.com/Habeel06/password-generator-python)"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Habeel06&repo=password-generator-python&theme=vision-friendly-dark&hide_border=true&show_icons=true" alt="github-readme-stats"></a>		
 <a href="https://github.com/Habeel06/cmatrix-rip-off-using-python"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Habeel06&repo=cmatrix-rip-off-using-python&theme=vision-friendly-dark&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
  <a href="https://github.com/Habeel06/assistant-using-python"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Habeel06&repo=assistant-using-python&theme=vision-friendly-dark&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
  
