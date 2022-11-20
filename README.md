@@ -24,7 +24,7 @@
   <img align='center' src="https://activity-graph.herokuapp.com/graph?username=Habeel06&theme=chartreuse-dark&bg_color=000000&hide_border=true" width="100%"/>
 </p>
 	
-<h1 align="center"># 📝 LANGUAGES:
+<h1 align="center"># 📝 LANGUAGES:  <br>
 	
  <div align="center">
 
