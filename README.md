@@ -17,7 +17,7 @@
 <!--![](https://github-readme-stats.vercel.app/api?username=Habeel06&theme=vision-friendly-dark&hide_border=true)![](https://github-readme-streak-stats.herokuapp.com/?user=Habeel06&theme=vision-friendly-dark&hide_border=true)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=Habeel06&theme=vision-friendly-dark&hide_border=true&layout=compact) -->
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Habeel06&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&include_all_commits=true" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&inclue_private=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=Habeel06&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&include_all_commits=true" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&inclue_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habeel06&layout=compact&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&include_private=true"/>
 <p align="center">
     
