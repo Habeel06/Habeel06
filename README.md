@@ -1,5 +1,5 @@
-![MasterHead](banner.jpg)
-<h1 align="center"> 👋 Welcome to my Readme!</h1>
+
+<h1 align="center"> 👋 Hey There!</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Habeel06&label=Profile%20views&color=00FF00&style=flat" alt="Habeel06" /> </p>
  -->
 <h1 align="center"> # 👀 Counter:
