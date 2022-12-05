@@ -35,9 +35,6 @@
 </div>
 
 
-
-
-
 <h1 align="center"># 📱 Socials:
 <p align="center">
 <a href="https://twitter.com/habeel_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="habeel_06" height="30" width="40" /></a>
@@ -55,18 +52,5 @@
  <a href="https://github.com/Habeel06/assistant-using-python"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Habeel06&repo=assistant-using-python&theme=vision-friendly-dark&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
  
 </p> -->
-<!-- ## 📱 Socials
-<p align="center">
-	<a href="https://www.quora.com/profile/Mir-Habeel-Ahmad-1">
-		<img src="https://img.shields.io/badge/Quora-informational?style=social&logo=quora"/>
-	</a>
-	<a href="https://replit.com/@habeel">
-		<img src="https://img.shields.io/badge/Replit-informational?style=social&logo=replit"/>
-	</a>
-	<a href="https://github.com/Habeel06">
-		<img src="https://img.shields.io/badge/Github-informational?style=social&logo=github"/>
-	</a>
-</p> -->
-
 
 
