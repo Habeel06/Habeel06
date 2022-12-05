@@ -29,7 +29,7 @@
 <summary><b> 📝 Click to see what languages I know. <b></summary>
 
 		
-<h1 align="center"># 📝 LANGUAGES:  <br>
+<h1 align="center">
 	
  <div align="center">
 
@@ -49,7 +49,10 @@
 </div>
 </details>
 
-<h1 align="center"># 📱 Socials:
+	
+<details>
+<summary><b> 📱 My Socials <b></summary>
+<h1 align="center">
 <p align="center">
 <a href="https://twitter.com/habeel_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="habeel_06" height="30" width="40" /></a>
 <a href="https://www.quora.com/profile/Mir-Habeel-Ahmad-1" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174865.png" alt="Mir-Habeel-Ahmad-1" height="35" width="40" /></a>	
