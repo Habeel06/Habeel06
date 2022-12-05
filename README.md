@@ -17,6 +17,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Habeel06&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&inclue_private=true" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&inclue_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habeel06&hide=css&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
 <img align='center' src="https://activity-graph.herokuapp.com/graph?username=Habeel06&theme=chartreuse-dark&bg_color=000000&hide_border=true" width="100%"/>
+	
 </p>
 	
 <h1 align="center"># 📝 LANGUAGES:  <br>
