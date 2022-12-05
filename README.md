@@ -11,15 +11,16 @@
 <h1 align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=FF0000&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hi!;My+name+is+Habeel!;I+am+a+Web+Developer+and+an;+Ethical+Hacker!" alt="Typing SVG" /></a>
 </h1>
-
-<h1 align="center"> # 📊 GitHub Stats: 
+<details>
+	<summary><b> 📊 Click to see my Github Stats <b></summary>
+<h1 align="center">
 	
 <img src="https://github-readme-stats.vercel.app/api?username=Habeel06&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&inclue_private=true" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&inclue_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habeel06&hide=css&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
 <img align='center' src="https://activity-graph.herokuapp.com/graph?username=Habeel06&theme=chartreuse-dark&bg_color=000000&hide_border=true" width="100%"/>
 	
 </p>
-	
+</details>
 <h1 align="center"># 📝 LANGUAGES:  <br>
 	
  <div align="center">
