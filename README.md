@@ -39,6 +39,32 @@ console.log("You can find the rest details below.")
 		
 		
 <details>
+	
+<summary><b> 🛠️ Click to see my Best Projects. <b></summary>	
+	
+```yaml
+PROJECT NUMBER 1
+-------------------------
+Name :
+About:
+Languages used :
+What I learnt from it :
+Website:
+
+
+```
+```yaml
+PROJECT NUMBER 2
+-------------------------
+Name :
+About:
+Languages used :
+What I learnt from it :
+Website:
+
+
+```
+</details>
 <summary><b> 📝 Click to see what languages I know. <b></summary>
 
 		
@@ -49,7 +75,9 @@ console.log("You can find the rest details below.")
   <img src="https://skillicons.dev/icons?i=css,html,python,js"> 
 </div>
 </details>
+<details>
 	
+
 	
 <details>
 <summary><b> 💻 Click to see my Tech Stack. <b></summary>	
