@@ -9,6 +9,9 @@ Languages:
 Learning: Javascript,Node.js.
 Location: India
 Discord: Yukon#5482
+
+console.log("You can find the rest details below.")
+
 ```
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Habeel06&label=Profile%20views&color=00FF00&style=flat" alt="Habeel06" /> </p>
  -->
