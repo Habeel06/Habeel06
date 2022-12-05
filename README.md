@@ -65,6 +65,7 @@ Website:
 
 ```
 </details>
+<details>
 <summary><b> 📝 Click to see what languages I know. <b></summary>
 
 		
@@ -75,7 +76,7 @@ Website:
   <img src="https://skillicons.dev/icons?i=css,html,python,js"> 
 </div>
 </details>
-<details>
+
 	
 
 	
