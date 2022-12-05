@@ -7,9 +7,12 @@
 
 
 ```javascript
-Mir Habeel Ahmad
+
+
+Name: Mir Habeel Ahmad
 -------------------------
-OS: Windows 10 and Garuda KDE Dr460nized
+OS: Windows 10,Garuda KDE Dr460nized and
+many more.
 Languages: 
 Learning: Javascript,Node.js.
 Location: India
@@ -19,8 +22,7 @@ console.log("You can find the rest details
 below.")
 
 ```
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Habeel06&label=Profile%20views&color=00FF00&style=flat" alt="Habeel06" /> </p>
- -->
+
 <!-- <h1 align="center"> # 👀 Counter:
 
 <br>
