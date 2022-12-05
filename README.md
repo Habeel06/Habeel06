@@ -99,6 +99,7 @@ Website:
 <p align="center">
 <a href="https://twitter.com/habeel_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="habeel_06" height="30" width="40" /></a>
 <a href="https://www.quora.com/profile/Mir-Habeel-Ahmad-1" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174865.png" alt="Mir-Habeel-Ahmad-1" height="35" width="40" /></a>	
+<a href="https://discord.com/users/824226984954953748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="habeel_06" height="30" width="40" /></a>
 </p>
 	
 <!-- <h1 align="center"># 📌 Special Repositories:
