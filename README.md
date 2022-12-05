@@ -15,8 +15,7 @@
 <h1 align="center"> # 📊 GitHub Stats: 
 	
 <img src="https://github-readme-stats.vercel.app/api?username=Habeel06&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&inclue_private=true" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&inclue_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habeel06&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habeel06&hide=css&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
 <img align='center' src="https://activity-graph.herokuapp.com/graph?username=Habeel06&theme=chartreuse-dark&bg_color=000000&hide_border=true" width="100%"/>
 </p>
 	
@@ -35,14 +34,7 @@
 ![REPLIT](https://img.shields.io/badge/replit-000000.svg?style=for-the-badge&logo=replit&logoColor=white)  ![VERCEL](https://img.shields.io/badge/-vercel-000000?style=for-the-badge&logo=vercel) <br>![ANDROID](https://img.shields.io/badge/-ANDROID-000000?style=for-the-badge&logo=android)   ![LINUX](https://img.shields.io/badge/linux-000000.svg?style=for-the-badge&logo=linux&logoColor=) ![WINDOWS](https://img.shields.io/badge/-windows-000000?style=for-the-badge&logo=windows&logoColor=white)<br>  <img src="https://img.shields.io/badge/-blender-000000?style=for-the-badge&logo=blender">  ![UPWORK](https://img.shields.io/badge/-UPWORK-000000?style=for-the-badge&logo=upwork) ![NGROK](https://img.shields.io/badge/-NGROK-000000?style=for-the-badge&logo=ngrok) ![GIT](https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=git) <br>![TRYHACKME](https://img.shields.io/badge/-tryhackme-000000?style=for-the-badge&logo=tryhackme) ![SHELL](https://img.shields.io/badge/powershell-000000.svg?style=for-the-badge&logo=powershell&logoColor=%23F7DF1E)  ![VMWARE](https://img.shields.io/badge/-VMWARE_PRO-000000?style=for-the-badge&logo=vmware) ![ORACLE](https://img.shields.io/badge/-ORACLEVM-000000?style=for-the-badge&logo=oracle) <br> ![GFG](https://img.shields.io/badge/-GEEKS_FOR_GEEKS-000000?style=for-the-badge&logo=geeksforgeeks) ![Node](https://img.shields.io/badge/-NODE.js-000000?style=for-the-badge&logo=node.js) 
 </div>
 
-<h2 align="center">My Github Statistics</h2>
-<div align="center">
-<img alt ="stats" src="https://github-readme-stats.vercel.app/api?username=Habeel06&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Habeel06&theme=tokyonight&hide_border=true">
-  <br>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs?username=Habeel06&hide=css&layout=compact&theme=tokyonight&hide_border=true'>
-</div>
+
 
 
 
