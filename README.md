@@ -1,5 +1,8 @@
 
-<h1 align="center"> 👋 Hey There!</h1>
+
+<h1 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=FF0000&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hi!;My+name+is+Habeel!;I+am+a+Web+Developer+and+an;+Ethical+Hacker!" alt="Typing SVG" /></a>
+</h1>
 
 ```javascript
 Mir Habeel Ahmad
@@ -21,9 +24,6 @@ console.log("You can find the rest details below.")
   <img src="https://profile-counter.glitch.me/Habeel06/count.svg" />
 </h1> -->
 
-<h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=FF0000&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hi!;My+name+is+Habeel!;I+am+a+Web+Developer+and+an;+Ethical+Hacker!" alt="Typing SVG" /></a>
-</h1>
 
 
 <details>
