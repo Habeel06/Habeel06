@@ -1,8 +1,8 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=FF0000&background=000000EE&center=true&vCenter=true&multiline=true&width=1900&height=300&lines=Hi!;My+name+is+Habeel!;I+am+a+Web+Developer+and+an;+Ethical+Hacker!" alt="Typing SVG" /></a>
+
+<img align='right' src="image.jpg" width="230">
 
 
-<h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=FF0000&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hi!;My+name+is+Habeel!;I+am+a+Web+Developer+and+an;+Ethical+Hacker!" alt="Typing SVG" /></a>
-</h1>
 
 ```javascript
 Mir Habeel Ahmad
