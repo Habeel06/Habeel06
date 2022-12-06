@@ -32,14 +32,14 @@ below.")
 <details>
 	<summary><b> 📊 Click to see my Github Stats <b></summary>
 <h1 align="center">
-<img alt ="stats" src="https://github-readme-stats.vercel.app/api?username=habeel06&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+<img alt ="stats" src="https://github-readme-stats.vercel.app/api?username=habeel06&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=habeel06&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
   <br>
   <img src='https://github-readme-stats.vercel.app/api/top-langs?username=habeel06&hide=css&layout=compact&theme=tokyonight&hide_border=true'>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Habeel06&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&inclue_private=true" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habeel06&hide=css&layout=compact&theme=vision-friendly-dark&hide_border=true"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=Habeel06&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&inclue_private=true" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habeel06&hide=css&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
 <img align='center' src="https://activity-graph.herokuapp.com/graph?username=Habeel06&theme=chartreuse-dark&bg_color=000000&hide_border=true" width="100%"/>
 	
 </p>
