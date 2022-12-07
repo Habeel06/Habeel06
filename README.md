@@ -30,7 +30,7 @@ below.")
 
 
 <details>
-	<summary><b> 📊 Click to see my Github Stats <b></summary>
+	<summary><b> 📊 Github Stats <b></summary>
 <h1 align="center">
 <img alt ="stats" src="https://github-readme-stats.vercel.app/api?username=habeel06&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habeel06&hide=css&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
@@ -42,7 +42,7 @@ below.")
 		
 <details>
 	
-<summary><b> 🛠️ Click to see my Best Projects. <b></summary>	
+<summary><b> 🛠️ Projects <b></summary>	
 	
 ```yaml
 PROJECT NUMBER 1
@@ -70,8 +70,7 @@ Repository Link:
 ```
 </details>
 <details>
-<summary><b> 📝 Click to see what languages I know. <b></summary>
-
+<summary><b> 📝 Languages<b></summary>
 		
 <h1 align="center">
 	
@@ -85,7 +84,7 @@ Repository Link:
 
 	
 <details>
-<summary><b> 💻 Click to see my Tech Stack. <b></summary>	
+<summary><b> 💻 Tech Stack. <b></summary>	
 <h1 align="center">
 
 <div align="center">
@@ -96,7 +95,7 @@ Repository Link:
 
 	
 <details>
-<summary><b> 📱 My Socials <b></summary>
+<summary><b> 📱 Socials <b></summary>
 <h1 align="center">
 <p align="center">
 <a href="https://twitter.com/habeel_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="habeel_06" height="30" width="40" /></a>
