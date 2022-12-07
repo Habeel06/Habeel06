@@ -11,7 +11,7 @@ Name: Mir Habeel Ahmad
 -------------------------
 OS: Windows 10,Garuda KDE Dr460nized and
 many more.
-Languages: 
+Languages: PYTHON,HTML,CSS,JS
 Learning: Javascript,Node.js.
 Location: India
 Discord: Yukon#5482
