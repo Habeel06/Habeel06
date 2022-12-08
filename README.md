@@ -1,6 +1,7 @@
 ![alt text](hero.svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=00FF00&background=000000EE&center=true&vCenter=true&multiline=true&width=1900&height=400&lines=Hi!;My+name+is+Habeel!;I+am+a+Web+Developer+and+an;+Ethical+Hacker!" alt="Typing SVG" /></a> 
 ![](https://github.com/Habeel06/Habeel06/blob/main/bg.png)
-<img align='right' src="image1.png" width="200"> 
+<!-- <img align='right' src="image1.png" width="200">  -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=00FF00&background=000000EE&center=true&vCenter=true&multiline=true&width=1900&height=400&lines=Hi!;My+name+is+Habeel!;I+am+a+Web+Developer+and+an;+Ethical+Hacker!" alt="Typing SVG" /></a> 
 
 
@@ -116,6 +117,5 @@ Repository Link:
  <a href="https://github.com/Habeel06/assistant-using-python"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Habeel06&repo=assistant-using-python&theme=vision-friendly-dark&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
  
 </p> -->
-
 ![alt text](bottom1.svg)
 
