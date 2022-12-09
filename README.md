@@ -22,11 +22,11 @@ below.")
 
 ```
 
-<!-- <h1 align="center"> # 👀 Counter:
+ <h1 align="center"> # 👀 Counter:
 
 <br>
   <img src="https://profile-counter.glitch.me/Habeel06/count.svg" />
-</h1> -->
+</h1> 
 
 
 
