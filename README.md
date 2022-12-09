@@ -117,5 +117,5 @@ Repository Link:
  
 </p> -->
 	
-![alt text](bottom1.svg)
+<!-- ![alt text](bottom1.svg) -->
 
