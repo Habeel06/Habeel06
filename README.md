@@ -55,7 +55,7 @@ below.")
 ```yaml
 PROJECT NUMBER 1
 -------------------------
-Name :
+Name : TO BE UPDATED
 About:
 Languages used :
 What I learnt from it :
@@ -67,7 +67,7 @@ Repository Link:
 ```yaml
 PROJECT NUMBER 2
 -------------------------
-Name :
+Name : TO BE UPDATED
 About:
 Languages used :
 What I learnt from it :
@@ -128,5 +128,5 @@ Repository Link:
 console.log("Have a nice day!")
 
 ```
-<!-- ![alt text](bottom1.svg) -->
+![alt text](bottom1.svg)
 
