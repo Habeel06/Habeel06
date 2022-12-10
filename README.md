@@ -111,6 +111,11 @@ Repository Link:
 <a href="https://discord.com/users/824226984954953748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="habeel_06" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mir-habeel-ahmad-039a8b227" target="blank"><img align="center" src="https://img.icons8.com/color/512/linkedin-circled.png" alt="habeel_06" height="30" width="40" /></a>
 </p>
+	
+```javascript
+console.log("Have a nice day!")
+
+```
 </details>	
 <!-- <h1 align="center"># 📌 Special Repositories:
 <p align="center"> 
@@ -124,9 +129,5 @@ Repository Link:
  
 </p> -->
 
-```javascript
-console.log("Have a nice day!")
-
-```
 ![alt text](bottom1.svg)
 
