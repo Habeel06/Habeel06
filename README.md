@@ -7,7 +7,7 @@ console.log("Hello There")
 
 ```
 
-<img src="about1.svg"  >
+
 <!-- <img align='right' src="image1.png" width="200">  -->
 <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=00FF00&background=000000EE&center=true&vCenter=true&multiline=true&width=1900&height=400&lines=Hi!;My+name+is+Habeel!;I+am+a+Web+Developer+and+an;+Ethical+Hacker!" alt="Typing SVG" /></a> -->
 
@@ -36,9 +36,9 @@ below.")
 </html> -->
 
 
-
+<img src="about1.svg"  >
 <details>
-	<summary><b> 📊 Github Stats <b></summary>
+<summary><b> 📊 Github Stats <b></summary>
 <h1 align="center">
 <img alt ="stats" src="https://github-readme-stats.vercel.app/api?username=habeel06&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habeel06&hide=css&layout=compact&theme=vision-friendly-dark&hide_border=true&count_private=true&include_all_commits=true"/>
