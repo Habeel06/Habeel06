@@ -112,10 +112,7 @@ Repository Link:
 <a href="https://www.linkedin.com/in/mir-habeel-ahmad-039a8b227" target="blank"><img align="center" src="https://img.icons8.com/color/512/linkedin-circled.png" alt="habeel_06" height="30" width="40" /></a>
 </p>
 	
-```javascript
-console.log("Have a nice day!")
 
-```
 </details>	
 <!-- <h1 align="center"># 📌 Special Repositories:
 <p align="center"> 
@@ -128,6 +125,9 @@ console.log("Have a nice day!")
  <a href="https://github.com/Habeel06/assistant-using-python"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Habeel06&repo=assistant-using-python&theme=vision-friendly-dark&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
  
 </p> -->
+```javascript
+console.log("Have a nice day!")
 
+```
 ![alt text](bottom1.svg)
 
