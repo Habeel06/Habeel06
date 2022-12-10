@@ -7,7 +7,7 @@ console.log("Hello There")
 
 ```
 
-<img src="about1.svg" align='center' >
+<img src="about1.svg"  >
 <!-- <img align='right' src="image1.png" width="200">  -->
 <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=00FF00&background=000000EE&center=true&vCenter=true&multiline=true&width=1900&height=400&lines=Hi!;My+name+is+Habeel!;I+am+a+Web+Developer+and+an;+Ethical+Hacker!" alt="Typing SVG" /></a> -->
 
@@ -18,6 +18,23 @@ console.log("Hello There")
   <img src="https://profile-counter.glitch.me/Habeel06/count.svg" />
 </h1> 
  -->
+<!-- <html>
+```js
+Name: Mir Habeel Ahmad
+About:I am a Web Developer and an Ethical Hacker.
+-------------------------
+OS: Windows 10,Garuda KDE Dr460nized and
+many more.
+Languages: PYTHON,HTML,CSS,JS
+Learning: Javascript,Node.js.
+Location: India
+Discord: Yukon#5482
+
+echo("You can find the rest details 
+below.")
+```
+</html> -->
+
 
 
 <details>
