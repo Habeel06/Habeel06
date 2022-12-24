@@ -129,5 +129,5 @@ Repository Link:
 ```javascript
 console.log("Have a nice day!")
 ```
-![alt text](bottom1.svg)
+<!-- ![alt text](bottom1.svg) -->
 
