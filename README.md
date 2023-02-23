@@ -78,7 +78,7 @@ Repository Link:
 ```
 </details>
 <details>
-<summary><b> 📝 Languages<b></summary>
+<summary><b> 📝 Skills<b></summary>
 		
 <h1 align="center">
 	
