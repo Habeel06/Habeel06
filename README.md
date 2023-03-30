@@ -34,8 +34,6 @@ echo("You can find the rest details below.")
 ```
 
 
-
-<img src="about1.svg" alt="jiounbased">
 <details>
 <summary><b> 📊 Github Stats <b></summary>
 <h1 align="center">
