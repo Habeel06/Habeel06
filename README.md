@@ -18,22 +18,21 @@ console.log("Hello There")
   <img src="https://profile-counter.glitch.me/Habeel06/count.svg" />
 </h1> 
  -->
-<!-- <html>
+<html>
 ```js
 Name: Mir Habeel Ahmad
 About:I am a Web Developer and an Ethical Hacker.
 -------------------------
 OS: Windows 10,Garuda KDE Dr460nized and
 many more.
-Languages: PYTHON,HTML,CSS,JS
-Learning: Javascript,Node.js.
-Location: India
-Discord: Yukon#5482
+Skills: PYTHON,JS,HTML,CSS
+Learning: JS,Node.js.
+Discord: .Yukon.#5482
 
 echo("You can find the rest details 
 below.")
 ```
-</html> -->
+</html>
 
 
 <img src="about1.svg"  >
