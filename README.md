@@ -18,7 +18,7 @@ console.log("Hello There")
   <img src="https://profile-counter.glitch.me/Habeel06/count.svg" />
 </h1> 
  -->
-<html>
+
 ```js
 Name: Mir Habeel Ahmad
 About:I am a Web Developer and an Ethical Hacker.
@@ -32,7 +32,7 @@ Discord: .Yukon.#5482
 echo("You can find the rest details 
 below.")
 ```
-</html>
+
 
 
 <img src="about1.svg"  >
