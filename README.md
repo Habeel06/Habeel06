@@ -29,13 +29,13 @@ many more
 Skills: PYTHON,JS,HTML,CSS
 Learning: JS,Nodejs
 Discord: .Yukon.#5482
-------------------------------------------
+-----------------------------------------
 echo("You can find the rest details below.")
 ```
 
 
 
-<img src="about1.svg"  >
+<img src="about1.svg">
 <details>
 <summary><b> 📊 Github Stats <b></summary>
 <h1 align="center">
