@@ -21,16 +21,16 @@ console.log("Hello There")
 
 ```js
 Name: Mir Habeel Ahmad
-About:I am a Web Developer and an Ethical Hacker.
--------------------------
+About:I am a Web Developer and an Ethical
+Hacker.
+-----------------------------------------
 OS: Windows 10,Garuda KDE Dr460nized and
-many more.
+many more
 Skills: PYTHON,JS,HTML,CSS
-Learning: JS,Node.js.
+Learning: JS,Nodejs
 Discord: .Yukon.#5482
-
-echo("You can find the rest details 
-below.")
+------------------------------------------
+echo("You can find the rest details below.")
 ```
 
 
