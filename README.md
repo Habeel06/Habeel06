@@ -21,7 +21,7 @@ console.log("Hello There")
 
 ```js
 Name: Mir Habeel Ahmad
-About:I am aDeveloper and an Ethical
+About:I am a Developer and an Ethical
 Hacker.
 -----------------------------------------
 OS: Windows 10,Garuda KDE Dr460nized and
