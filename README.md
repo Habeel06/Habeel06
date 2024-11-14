@@ -28,7 +28,6 @@ OS: Windows 10,Garuda KDE Dr460nized and
 many more
 Skills: PYTHON,JS,HTML,CSS
 Learning: JS,Nodejs
-Discord: .Yukon.#5482
 -----------------------------------------
 echo("You can find the rest details below.")
 ```
