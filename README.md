@@ -40,7 +40,7 @@ echo("You can find the rest details below.")
 	
 </p>
 </details>
-ss
+
 <details>
 <summary><b> 📝 Skills<b></summary>
 		
