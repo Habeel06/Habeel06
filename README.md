@@ -18,7 +18,7 @@ console.log("Hello There")
   <img src="https://profile-counter.glitch.me/Habeel06/count.svg" />
 </h1> 
  -->
-cc
+
 ```js
 Name: Mir Habeel Ahmad
 About:I am a Developer and an Ethical
@@ -43,36 +43,7 @@ echo("You can find the rest details below.")
 </p>
 </details>
 		
-		
-<details>
-	
-<summary><b> 🛠️ Projects <b></summary>	
-	
-```yaml
-PROJECT NUMBER 1
--------------------------
-Name : TO BE UPDATED
-About:
-Languages used :
-What I learnt from it :
-Website:
-Repository Link:
 
-
-```
-```yaml
-PROJECT NUMBER 2
--------------------------
-Name : TO BE UPDATED
-About:
-Languages used :
-What I learnt from it :
-Website:
-Repository Link:
-
-
-```
-</details>
 <details>
 <summary><b> 📝 Skills<b></summary>
 		
