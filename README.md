@@ -41,6 +41,16 @@ echo("You can find the rest details below.")
 </p>
 </details>
 
+<details>
+<summary><b> 📝 Skills<b></summary>
+		
+<h1 align="center">
+	
+ <div align="center">
+
+  <img src="https://skillicons.dev/icons?i=css,html,python,js"> 
+</div>
+</details>
 
 		
 
