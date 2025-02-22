@@ -6,7 +6,7 @@
 console.log("Hello There")
 
 ```
-cc
+
 
 <!-- <img align='right' src="image1.png" width="200">  -->
 <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=00FF00&background=000000EE&center=true&vCenter=true&multiline=true&width=1900&height=400&lines=Hi!;My+name+is+Habeel!;I+am+a+Web+Developer+and+an;+Ethical+Hacker!" alt="Typing SVG" /></a> -->
@@ -18,7 +18,7 @@ cc
   <img src="https://profile-counter.glitch.me/Habeel06/count.svg" />
 </h1> 
  -->
-
+cc
 ```js
 Name: Mir Habeel Ahmad
 About:I am a Developer and an Ethical
