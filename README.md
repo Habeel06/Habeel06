@@ -37,8 +37,8 @@ echo("You can find the rest details below.")
 <!-- <img alt ="stats" src="https://github-readme-stats.vercel.app/api?username=habeel06&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"> -->
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Habeel06&theme=vision_friendly_dark" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Habeel06&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habeel06&hide=css&layout=compact&theme=vision-friendly-dark&hide_border=true&count_private=true&include_all_commits=true"/>
-<img align='center' src="https://activity-graph.herokuapp.com/graph?username=Habeel06&theme=chartreuse-dark&bg_color=000000&hide_border=true" width="100%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habeel06&hide=css&layout=compact&theme=vision-friendly-dark&hide_border=true&count_private=true&include_all_commits=true"/>
+<img align='center' src="https://activity-graph.herokuapp.com/graph?username=Habeel06&theme=chartreuse-dark&bg_color=000000&hide_border=true" width="100%"/> -->
 	
 </p>
 </details>
