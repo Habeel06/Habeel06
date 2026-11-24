@@ -20,16 +20,11 @@ console.log("Hello There")
  -->
 
 ```js
-Name: Mir Habeel Ahmad
-About:I am a Developer and an Ethical
-Hacker.
+Name: [Mir Habeel Ahmad](habeel.is-a.dev)
+About: I am a developer with a keen interest in AI, especially machine
+       learning, deep learning and NLP.
 -----------------------------------------
-OS: Windows 10,Garuda KDE Dr460nized and
-many more
-Skills: PYTHON,JS,HTML,CSS
-Learning: JS,Nodejs
------------------------------------------
-echo("You can find the rest details below.")
+echo("You can find more about me and my work on my website")
 ```
 <details>
 <summary><b> 📊 Github Stats <b></summary>
